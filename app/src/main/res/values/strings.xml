@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="Apple">"An apple is an edible fruit produced by an apple tree.
+        Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.
+        The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today."</string>
+
+
+    <string name="Avocado">"The avocado, a tree likely originating from southcentral Mexico, is classified as a member of
+        the flowering plant family Lauraceae. The fruit of the plant, also called an avocado, is botanically a large berry
+        containing a single large seed"</string>
+
+
+    <string name="Orange">"The orange is the fruit of various citrus species in the family Rutaceae; it primarily refers to
+        Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred
+        to as bitter orange. The sweet orange reproduces asexually; varieties of sweet orange arise through mutations."</string>
+
+
+    <string name="Guava">"Guava is a common tropical fruit cultivated in many tropical and subtropical regions.
+        Psidium guajava is a small tree in the myrtle family, native to Mexico, Central America, the Caribbean and
+        northern South America. Although related species may also be called guavas, they belong to other species or genera,
+        such as the pineapple guava, Feijoa sellowiana. In 2019, 55 million tonnes of guavas were produced worldwide, led by
+        India with 45% of the total."</string>
+
+
+
+</resources>
